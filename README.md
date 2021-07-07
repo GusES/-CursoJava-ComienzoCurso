@@ -3,10 +3,12 @@
 De momento cada clase dentro de "src" es un ejercicio del curso<br>
 
 # Secciones Realizadas<br>
-√ 001 Fundamentos Java: Instalación Java y Apache Netbeans<br>
-√ 002 Fundamentos Java: Variables en Java<br>
-√ 003 Fundamentos de Java: Tipos Primitivos en Java<br>
-√ 004 Fundamentos Java: Operadores en Java<br>
-√ 005 Fundamentos Java: Sentencias de Control<br>
-√ 006 Fundamentos Java: Ciclos en Java<br>
-√ 007 Fundamentos Java: Creación de Clases en Java<br>
+√ Sección 1: Fundamentos Java: Instalación Java y Apache Netbeans<br>
+√ Sección 2: Fundamentos Java: Variables en Java<br>
+√ Sección 3: Fundamentos de Java: Tipos Primitivos en Java<br>
+√ Sección 4: Fundamentos Java: Operadores en Java<br>
+√ Sección 5: Fundamentos Java: Sentencias de Control<br>
+√ Sección 6: Fundamentos Java: Ciclos en Java<br>
+√ Sección 7: Fundamentos Java: Creación de Clases en Java<br>
+√ Sección 8: Fundamentos Java: Métodos en Java<br>
+√ Sección 9: Fundamentos Java: Constructores en Java<br>
