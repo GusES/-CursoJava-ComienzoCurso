@@ -1,20 +1,20 @@
-# Ejercicios "1 al 6"
+# Ejercicios de Introduccion
 
-Algunas consignas estan incompletas porque decidi documentarlas luego de haberlas realizado y ya no tenia acceso al enunciado.<br>
-Sus soluciones estan en la carpeta src.<br>
+Las soluciones estan en la carpeta src. Algunas consignas estan incompletas porque decidi documentarlas luego de haberlas realizado y ya no tenia acceso al enunciado completo.<br>
 <br>
+
 <b>TAREA 1</b><br>
 Crear un programa para saludar desde Java<br>
 <br>
  
 <b>TAREA 2</b><br>
 Se solicita incluir la siguiente información acerca de un libro:<br>
-    titulo<br>
-    autor<br>
++ titulo<br>
++ autor<br>
 Debes imprimir la información en el siguiente formato:<br>
-    Proporciona el titulo:<br>
-    Proporciona el autor:<br>
-    <titulo> fue escrito por <autor><br>
++ Proporciona el titulo:<br>
++ Proporciona el autor:<br>
++ \u003c titulo \u003e  fue escrito por \u003c autor \u003e <br>
 <br>
   
 <b>TAREA 3</b><br>
@@ -23,13 +23,13 @@ Se solicita capturar la siguiente información de una tienda de libros<br>
 
 <b>TAREA 4</b><br>
 En el siguiente ejercicio se solicita calcular el área y el perímetro de un Rectángulo, para ello deberemos crear las siguientes variables:<br>
-  alto (int)<br>
-  ancho (int)<br>
++ alto (int)<br>
++ ancho (int)<br>
 El usuario debe proporcionar los valores de largo y ancho, y después se debe imprimir el resultado en el siguiente formato(no usar acentos y respetar los espacios, mayúsculas, minúsculas y saltos de línea):<br>
-  Proporciona el alto:<br>
-  Proporciona el ancho:<br>
-  Area: <area><br>
-  Perimetro: <perimetro><br>
++ Proporciona el alto:<br>
++ Proporciona el ancho:<br>
++ Area: \u003c area \u003e <br>
++ Perimetro: \u003c perimetro \u003e<br>
 <br>
 
 <b>TAREA 5</b><br>
