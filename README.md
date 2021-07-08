@@ -3,11 +3,11 @@
 Algunas consignas estan incompletas porque decidi documentarlas luego de haberlas realizado y ya no tenia acceso al enunciado.<br>
 Sus soluciones estan en la carpeta src.<br>
 <br>
-TAREA 1<br>
+<b>TAREA 1</b><br>
 Crear un programa para saludar desde Java<br>
 <br>
  
-TAREA 2<br>
+<b>TAREA 2</b><br>
 Se solicita incluir la siguiente información acerca de un libro:<br>
     titulo<br>
     autor<br>
@@ -17,11 +17,11 @@ Debes imprimir la información en el siguiente formato:<br>
     <titulo> fue escrito por <autor><br>
 <br>
   
-TAREA 3<br>
+<b>TAREA 3</b><br>
 Se solicita capturar la siguiente información de una tienda de libros<br>
 <br>
 
-TAREA 4<br>
+<b>TAREA 4</b><br>
 En el siguiente ejercicio se solicita calcular el área y el perímetro de un Rectángulo, para ello deberemos crear las siguientes variables:<br>
   alto (int)<br>
   ancho (int)<br>
@@ -32,9 +32,9 @@ El usuario debe proporcionar los valores de largo y ancho, y después se debe im
   Perimetro: <perimetro><br>
 <br>
 
-TAREA 5<br>
+<b>TAREA 5</b><br>
 Solicitar al usuario dos valores, y determinar cual número es el mayor<br>
 <br>
 
-TAREA 6<br>
+<b>TAREA 6</b><br>
 Crear un sistema de calificaciones según se solicita.<br>
