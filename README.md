@@ -14,7 +14,7 @@ Se solicita incluir la siguiente información acerca de un libro:<br>
 Debes imprimir la información en el siguiente formato:<br>
 + Proporciona el titulo:<br>
 + Proporciona el autor:<br>
-+ <<titulo>> fue escrito por \u003c autor \u003e <br>
++ (titulo) fue escrito por (autor)<br>
 <br>
   
 <b>TAREA 3</b><br>
@@ -28,8 +28,8 @@ En el siguiente ejercicio se solicita calcular el área y el perímetro de un Re
 El usuario debe proporcionar los valores de largo y ancho, y después se debe imprimir el resultado en el siguiente formato(no usar acentos y respetar los espacios, mayúsculas, minúsculas y saltos de línea):<br>
 + Proporciona el alto:<br>
 + Proporciona el ancho:<br>
-+ Area: \u003c area \u003e <br>
-+ Perimetro: \u003c perimetro \u003e<br>
++ Area: (area)<br>
++ Perimetro: (perimetro)<br>
 <br>
 
 <b>TAREA 5</b><br>
