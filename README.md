@@ -14,7 +14,7 @@ Se solicita incluir la siguiente información acerca de un libro:<br>
 Debes imprimir la información en el siguiente formato:<br>
 + Proporciona el titulo:<br>
 + Proporciona el autor:<br>
-+ \u003c titulo \u003e  fue escrito por \u003c autor \u003e <br>
++ <<titulo>> fue escrito por \u003c autor \u003e <br>
 <br>
   
 <b>TAREA 3</b><br>
